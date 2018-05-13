@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PCWaker</string>
+    <string name="title_activity_add_pc__ssid">AddPC_SSIDActivity</string>
+</resources>
